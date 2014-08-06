@@ -10,3 +10,5 @@ http://www.watterott.com/en/Arduino-FabScan-Shield
 The servo that drives the marker/pen is driven by an ATtiny45 connected to pin D12.
 
 Based on the GRBL v0.8c
+
+In the _build_ folder there's a file _grbl.hex_ that is already compiled
